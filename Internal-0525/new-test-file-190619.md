@@ -1,3 +1,12 @@
+---
+title: Welcome to log-code-e2e-test
+author: v-pegao
+ms.author: v-pegao
+ms.prod: .net
+ms.topic: article
+ms.date: 06/19/2019
+---
+
 # Welcome to log-code-e2e-test!
 
 ## Test log code with document url
