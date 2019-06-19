@@ -18,8 +18,5 @@ The behavior now: return code with actual url.
 
 ## Test log code without document url
 
-The behavior now: return code with default url.
-
-> [!Note]  invalid text
->  Add invalid note section
+docset not found
 
