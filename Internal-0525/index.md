@@ -3,7 +3,6 @@ title: Test
 author: v-pegao
 ms.author: v-pegao
 ms.prod: .net
-ms.service: app-service-webjobs
 ms.topic: article
 ms.date: 06/19/2019
 ---
