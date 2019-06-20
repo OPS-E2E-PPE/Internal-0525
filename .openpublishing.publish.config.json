@@ -2,9 +2,9 @@
   "build_entry_point": "docs",
   "docsets_to_publish": [
     {
-      "docset_name": "Internal-0525",
+      "docset_name": "ppe-0525",
       "build_source_folder": "Internal-0525",
-      "build_output_subfolder": "Internal-0525",
+      "build_output_subfolder": "ppe-0525",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
