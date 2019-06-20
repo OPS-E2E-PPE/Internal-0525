@@ -10,6 +10,7 @@ ms.custom: aaddev
 ms.component: files
 ms.author: abc
 ms.author: abc
+ms.component： invalid
 ---
 
 #Invalid H1
